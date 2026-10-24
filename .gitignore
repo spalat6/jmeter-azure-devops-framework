@@ -1,0 +1,18 @@
+# JMeter generated results
+*.jtl
+*.log
+report/
+reports/
+results/
+
+# Local configuration
+.env
+*.local.properties
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+Thumbs.db
+.DS_Store
